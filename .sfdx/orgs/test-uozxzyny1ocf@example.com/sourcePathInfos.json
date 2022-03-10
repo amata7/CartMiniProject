@@ -30,9 +30,9 @@
   "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc": {
     "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc",
     "isDirectory": true,
-    "modifiedTime": 1646936858206,
-    "changeTime": 1646936858206,
-    "contentHash": "943b5f037c00b3129975d04ff1f273592a4982b4",
+    "modifiedTime": 1646937193373,
+    "changeTime": 1646937193373,
+    "contentHash": "65ea0115d69c5be94e1f9b81639630df5c11030e",
     "state": "u",
     "package": "force-app",
     "deferContentHash": true
@@ -89,10 +89,10 @@
   },
   "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\rewardShopContainer\\rewardShopContainer.html": {
     "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\rewardShopContainer\\rewardShopContainer.html",
-    "size": 747,
-    "modifiedTime": 1646936798752,
-    "changeTime": 1646936798752,
-    "contentHash": "8a25e30c638bc0524b078899d539edfdea871601",
+    "size": 731,
+    "modifiedTime": 1646937159867,
+    "changeTime": 1646937159867,
+    "contentHash": "ac186502dad5ada396052cc805be2d1d81dc61ed",
     "state": "u",
     "package": "force-app",
     "metadataType": "LightningComponentBundle",
@@ -440,15 +440,6 @@
     "state": "u",
     "package": "force-app"
   },
-  "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounterPreview": {
-    "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounterPreview",
-    "isDirectory": true,
-    "modifiedTime": 1646935396290,
-    "changeTime": 1646935396290,
-    "contentHash": "30e5d7918e286231bc83f0f9ca13c40096e53c97",
-    "state": "u",
-    "package": "force-app"
-  },
   "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounter\\quantityCounter.css": {
     "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounter\\quantityCounter.css",
     "size": 230,
@@ -472,10 +463,10 @@
   },
   "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounter\\quantityCounter.js": {
     "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounter\\quantityCounter.js",
-    "size": 572,
-    "modifiedTime": 1646936740513,
-    "changeTime": 1646936740513,
-    "contentHash": "8343c1a0d3e52f2445456b615b892f7fb1f0f41f",
+    "size": 479,
+    "modifiedTime": 1646937525612,
+    "changeTime": 1646937525612,
+    "contentHash": "b30eb1b28a554ccac0080eeedc3d2d851d15488d",
     "state": "u",
     "package": "force-app",
     "metadataType": "LightningComponentBundle",
@@ -483,45 +474,14 @@
   },
   "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounter\\quantityCounter.js-meta.xml": {
     "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounter\\quantityCounter.js-meta.xml",
-    "size": 208,
-    "modifiedTime": 1646936074527,
-    "changeTime": 1646936074527,
-    "contentHash": "7313c935fb9d39f719432466ac41eaa08bc879c3",
-    "isMetadataFile": true,
-    "state": "u",
-    "package": "force-app",
-    "metadataType": "LightningComponentBundle"
-  },
-  "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounterPreview\\quantityCounterPreview.html": {
-    "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounterPreview\\quantityCounterPreview.html",
-    "size": 382,
-    "modifiedTime": 1646936463925,
-    "changeTime": 1646936463925,
-    "contentHash": "3b05503918b89101436f43dc1ff1552c501f71d1",
-    "state": "u",
-    "package": "force-app",
-    "metadataType": "LightningComponentBundle",
-    "deferContentHash": true
-  },
-  "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounterPreview\\quantityCounterPreview.js": {
-    "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounterPreview\\quantityCounterPreview.js",
-    "size": 209,
-    "modifiedTime": 1646936029365,
-    "changeTime": 1646936029365,
-    "contentHash": "313aa651e6a78781d39ecea07a112c1c4c97df40",
-    "state": "u",
-    "package": "force-app",
-    "metadataType": "LightningComponentBundle"
-  },
-  "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounterPreview\\quantityCounterPreview.js-meta.xml": {
-    "sourcePath": "C:\\Users\\Adrian\\Desktop\\Revature Assignments\\CartMiniProject\\force-app\\main\\default\\lwc\\quantityCounterPreview\\quantityCounterPreview.js-meta.xml",
     "size": 281,
-    "modifiedTime": 1646936080037,
-    "changeTime": 1646936080037,
+    "modifiedTime": 1646937088065,
+    "changeTime": 1646937088065,
     "contentHash": "88e014d53ef7a1dc8edbd47c9e26798ff0d39dbb",
     "isMetadataFile": true,
     "state": "u",
     "package": "force-app",
-    "metadataType": "LightningComponentBundle"
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
   }
 }

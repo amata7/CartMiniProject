@@ -11,7 +11,7 @@
             <template for:each={rewards} for:item="reward">
                 <lightning-layout-item size="4" padding="around-small" key={reward.title}>
                     <c-reward-card item-img-url={reward.url} item-title={reward.title}></c-reward-card>
-                    <c-quantity-counter-preview></c-quantity-counter-preview>
+                    <c-quantity-counter></c-quantity-counter>
                 </lightning-layout-item>
             </template>
         </lightning-layout>

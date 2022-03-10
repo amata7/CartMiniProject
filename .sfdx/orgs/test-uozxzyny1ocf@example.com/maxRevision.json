@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 169,
+  "serverMaxRevisionCounter": 215,
   "sourceMembers": {
     "StaticResource__black_hat": {
       "serverRevisionCounter": 1,
@@ -92,8 +92,8 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__rewardShopContainer": {
-      "serverRevisionCounter": 153,
-      "lastRetrievedFromServer": 153,
+      "serverRevisionCounter": 191,
+      "lastRetrievedFromServer": 191,
       "memberType": "LightningComponentBundle",
       "isNameObsolete": false
     },
@@ -116,25 +116,25 @@
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShopContainer/rewardShopContainer.js-meta.xml": {
-      "serverRevisionCounter": 154,
-      "lastRetrievedFromServer": 154,
+      "serverRevisionCounter": 192,
+      "lastRetrievedFromServer": 192,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShopContainer/rewardShopContainer.js": {
-      "serverRevisionCounter": 155,
-      "lastRetrievedFromServer": 155,
+      "serverRevisionCounter": 193,
+      "lastRetrievedFromServer": 193,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShopContainer/rewardShopContainer.html": {
-      "serverRevisionCounter": 156,
-      "lastRetrievedFromServer": 156,
+      "serverRevisionCounter": 194,
+      "lastRetrievedFromServer": 194,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "FlexiPage__Cart_Mini_Project": {
-      "serverRevisionCounter": 167,
+      "serverRevisionCounter": 190,
       "lastRetrievedFromServer": null,
       "memberType": "FlexiPage",
       "isNameObsolete": false
@@ -146,26 +146,26 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__quantityCounter": {
-      "serverRevisionCounter": 148,
-      "lastRetrievedFromServer": 148,
+      "serverRevisionCounter": 211,
+      "lastRetrievedFromServer": 211,
       "memberType": "LightningComponentBundle",
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounter/quantityCounter.js-meta.xml": {
-      "serverRevisionCounter": 149,
-      "lastRetrievedFromServer": 149,
+      "serverRevisionCounter": 212,
+      "lastRetrievedFromServer": 212,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounter/quantityCounter.html": {
-      "serverRevisionCounter": 152,
-      "lastRetrievedFromServer": 152,
+      "serverRevisionCounter": 215,
+      "lastRetrievedFromServer": 215,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounter/quantityCounter.js": {
-      "serverRevisionCounter": 150,
-      "lastRetrievedFromServer": 150,
+      "serverRevisionCounter": 213,
+      "lastRetrievedFromServer": 213,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
@@ -194,8 +194,8 @@
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounter/quantityCounter.css": {
-      "serverRevisionCounter": 151,
-      "lastRetrievedFromServer": 151,
+      "serverRevisionCounter": 214,
+      "lastRetrievedFromServer": 214,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
@@ -254,26 +254,26 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__quantityCounterPreview": {
-      "serverRevisionCounter": 144,
-      "lastRetrievedFromServer": 144,
+      "serverRevisionCounter": 195,
+      "lastRetrievedFromServer": 195,
       "memberType": "LightningComponentBundle",
-      "isNameObsolete": false
+      "isNameObsolete": true
     },
     "LightningComponentResource__quantityCounterPreview/quantityCounterPreview.js": {
-      "serverRevisionCounter": 145,
-      "lastRetrievedFromServer": 145,
+      "serverRevisionCounter": 171,
+      "lastRetrievedFromServer": 171,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounterPreview/quantityCounterPreview.html": {
-      "serverRevisionCounter": 146,
-      "lastRetrievedFromServer": 146,
+      "serverRevisionCounter": 172,
+      "lastRetrievedFromServer": 172,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounterPreview/quantityCounterPreview.js-meta.xml": {
-      "serverRevisionCounter": 147,
-      "lastRetrievedFromServer": 147,
+      "serverRevisionCounter": 173,
+      "lastRetrievedFromServer": 173,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     }
