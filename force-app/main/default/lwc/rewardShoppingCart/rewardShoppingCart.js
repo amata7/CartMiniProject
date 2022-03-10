@@ -18,7 +18,13 @@ export default class RewardShoppingCart extends LightningElement {
   }
 
   handleMessage(message) {
-    console.log(message);
+    this.itemTitle = message.item;
+    this.itemQuantity = message.quantity;
+    console.log(
+      { 'event message': message },
+      { 'item title': this.itemTitle },
+      { 'item quantity': this.itemQuantity }
+    );
   }
 
   connectedCallback() {

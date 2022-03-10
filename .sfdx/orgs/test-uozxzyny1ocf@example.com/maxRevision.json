@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 520,
+  "serverMaxRevisionCounter": 566,
   "sourceMembers": {
     "StaticResource__black_hat": {
       "serverRevisionCounter": 1,
@@ -134,7 +134,7 @@
       "isNameObsolete": false
     },
     "FlexiPage__Cart_Mini_Project": {
-      "serverRevisionCounter": 490,
+      "serverRevisionCounter": 532,
       "lastRetrievedFromServer": null,
       "memberType": "FlexiPage",
       "isNameObsolete": false
@@ -146,26 +146,26 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__quantityCounter": {
-      "serverRevisionCounter": 508,
-      "lastRetrievedFromServer": 508,
+      "serverRevisionCounter": 562,
+      "lastRetrievedFromServer": 562,
       "memberType": "LightningComponentBundle",
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounter/quantityCounter.js-meta.xml": {
-      "serverRevisionCounter": 509,
-      "lastRetrievedFromServer": 509,
+      "serverRevisionCounter": 563,
+      "lastRetrievedFromServer": 563,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounter/quantityCounter.html": {
-      "serverRevisionCounter": 512,
-      "lastRetrievedFromServer": 512,
+      "serverRevisionCounter": 566,
+      "lastRetrievedFromServer": 566,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounter/quantityCounter.js": {
-      "serverRevisionCounter": 510,
-      "lastRetrievedFromServer": 510,
+      "serverRevisionCounter": 564,
+      "lastRetrievedFromServer": 564,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
@@ -194,8 +194,8 @@
       "isNameObsolete": false
     },
     "LightningComponentResource__quantityCounter/quantityCounter.css": {
-      "serverRevisionCounter": 511,
-      "lastRetrievedFromServer": 511,
+      "serverRevisionCounter": 565,
+      "lastRetrievedFromServer": 565,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
@@ -362,26 +362,26 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__rewardShoppingCart": {
-      "serverRevisionCounter": 517,
-      "lastRetrievedFromServer": 517,
+      "serverRevisionCounter": 553,
+      "lastRetrievedFromServer": 553,
       "memberType": "LightningComponentBundle",
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShoppingCart/rewardShoppingCart.js": {
-      "serverRevisionCounter": 518,
-      "lastRetrievedFromServer": 518,
+      "serverRevisionCounter": 554,
+      "lastRetrievedFromServer": 554,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShoppingCart/rewardShoppingCart.html": {
-      "serverRevisionCounter": 519,
-      "lastRetrievedFromServer": 519,
+      "serverRevisionCounter": 555,
+      "lastRetrievedFromServer": 555,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShoppingCart/rewardShoppingCart.js-meta.xml": {
-      "serverRevisionCounter": 520,
-      "lastRetrievedFromServer": 520,
+      "serverRevisionCounter": 556,
+      "lastRetrievedFromServer": 556,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     }

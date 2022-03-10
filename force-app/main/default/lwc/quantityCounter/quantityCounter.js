@@ -27,7 +27,11 @@ export default class QuantityCounter extends LightningElement {
       item: this.itemTitle,
       quantity: this.counterVal,
     };
-    publish(this.messageContext, REWARD_CARD_CHANNEL, payload);
-    this.counterVal = 0;
+    if (this.counterVal > 0) {
+      publish(this.messageContext, REWARD_CARD_CHANNEL, payload);
+      this.counterVal = 0;
+    } else {
+      this.counterVal = 0;
+    }
   }
 }
