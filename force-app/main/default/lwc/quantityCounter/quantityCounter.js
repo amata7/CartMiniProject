@@ -1,10 +1,14 @@
-import { LightningElement, api } from 'lwc';
+import { LightningElement, api, wire } from 'lwc';
+import { publish, MessageContext } from 'lightning/messageService';
+import REWARD_CARD_CHANNEL from '@salesforce/messageChannel/Reward_Cart__c';
 
 export default class QuantityCounter extends LightningElement {
   @api counterVal = 0;
   @api incrementVal = 1;
   @api itemImgUrl;
   @api itemTitle;
+  @wire(MessageContext)
+  messageContext;
 
   handleDecrement(e) {
     if (this.counterVal === 0) {
@@ -19,6 +23,11 @@ export default class QuantityCounter extends LightningElement {
   }
 
   handleClick(e) {
+    const payload = {
+      item: this.itemTitle,
+      quantity: this.counterVal,
+    };
+    publish(this.messageContext, REWARD_CARD_CHANNEL, payload);
     this.counterVal = 0;
   }
 }
