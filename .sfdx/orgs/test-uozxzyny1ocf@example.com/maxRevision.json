@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 566,
+  "serverMaxRevisionCounter": 630,
   "sourceMembers": {
     "StaticResource__black_hat": {
       "serverRevisionCounter": 1,
@@ -362,26 +362,26 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__rewardShoppingCart": {
-      "serverRevisionCounter": 553,
-      "lastRetrievedFromServer": 553,
+      "serverRevisionCounter": 627,
+      "lastRetrievedFromServer": 627,
       "memberType": "LightningComponentBundle",
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShoppingCart/rewardShoppingCart.js": {
-      "serverRevisionCounter": 554,
-      "lastRetrievedFromServer": 554,
+      "serverRevisionCounter": 628,
+      "lastRetrievedFromServer": 628,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShoppingCart/rewardShoppingCart.html": {
-      "serverRevisionCounter": 555,
-      "lastRetrievedFromServer": 555,
+      "serverRevisionCounter": 629,
+      "lastRetrievedFromServer": 629,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__rewardShoppingCart/rewardShoppingCart.js-meta.xml": {
-      "serverRevisionCounter": 556,
-      "lastRetrievedFromServer": 556,
+      "serverRevisionCounter": 630,
+      "lastRetrievedFromServer": 630,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     }
